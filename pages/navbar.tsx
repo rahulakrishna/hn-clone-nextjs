@@ -5,17 +5,17 @@ const Container = styled.nav`
   display: flex;
   flex-direction: row;
   align-items: center;
-  background: orange;
+  background: #ff8f00;
   padding: 0px 32px;
 `;
 
 const Title = styled.h3`
-  color: white;
+  color: #000;
   margin-right: 20px;
 `;
 
 const NavItem = styled.span`
-  color: white;
+  color: #0f0f0f;
   text-decoration: underline;
   margin-right: 8px;
 `;
